@@ -6,7 +6,7 @@ This project is a fully open-source, beginner-friendly DIY gaming console based 
 
 Designed for makers, students, and DIY electronics enthusiasts, this console demonstrates how to build a complete embedded system from scratch. The firmware is clean and minimal, providing a solid foundation for learning game development on microcontrollers.
 
-Whether you want to play classic mini-games like Snake and Pong or dive into a DOOM-style micro FPS, the DIY Gaming Console offers a fun and educational experience. It is easy to build, easy to program, and ready for future improvements.
+Whether you want to play classic mini-games like Snake and Pong or dive into a DOOM-style micro FPS, the DIY Gaming Console offers a fun and educational experience. It is easy to build, easy to program, and ready for future improvements..
 
 ## Project Photos
 ![Project Photo 1](img/P1.jpeg)
