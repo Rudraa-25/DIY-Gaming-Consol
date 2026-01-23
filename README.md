@@ -12,7 +12,7 @@ Whether you want to play classic mini-games like Snake and Pong or dive into a D
 ![Project Photo 1](img/P1.jpeg)
 ![Project Photo 2](img/P2.jpeg)
 
-## Features
+### Features
 - **ESP32-C3 based DIY gaming console**: Powerful and efficient.
 - **1.3-inch SH1106 OLED display**: Sharp monochrome graphics.
 - **Single analog 5-key button input**: Simplified wiring.
