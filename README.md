@@ -84,6 +84,5 @@ DIY Gaming Console/
 - [ ] Add SD card support for loading more games.
 -TESTING2
 -TESTING
--TESTING
 ## License
 MIT License
