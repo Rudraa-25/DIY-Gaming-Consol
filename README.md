@@ -87,7 +87,4 @@ DIY Gaming Console/
 -TESTING
 ## License
 MIT License
-
-
-@sujay-patel-github
 @rudra
