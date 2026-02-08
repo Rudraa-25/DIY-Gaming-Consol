@@ -1,4 +1,4 @@
-## DIY Gaming Console
+## DIY Gaming Console ##
 
 *An open-source embedded game console.*
 
